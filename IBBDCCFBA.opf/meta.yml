@@ -1,0 +1,25 @@
+id: IBBDCCFBA
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:22:46.152153'
+last_modified: '2022-05-30T18:22:46.152158'
+parser: null
+source_metadata:
+  title: Bengar Jampal Zangpo
+  language: bo
+  description: 'Texts by Bengar Jampal Zangpo (ban sgar ''jam dpal bzang po), the
+    famous Kagyü master who was born in the fifteenth century:'
+  volume:
+    f803A:
+      title: Invoking the Blessings of the Kagyü Lineage—‘Dorjechang Thungma’
+      base_file: f803A.txt
+      order: 1
+      parent: Lineage Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
